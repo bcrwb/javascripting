@@ -1,0 +1,2 @@
+# javascripting
+Mini javascript project
